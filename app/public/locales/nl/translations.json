@@ -1,0 +1,125 @@
+{
+    "onboarding": {
+        "login": {
+            "title": "Inloggen",
+            "button": "Inloggen"
+        },
+        "home": {
+            "title": "Home"
+        },
+        "register": {
+            "title": "Registreren",
+            "button": "Registeren"
+        },
+        "logout": {
+            "title": "Uitloggen",
+            "button": "Uitloggen"
+        }
+    },
+    "navigation": {
+        "offices": "Kantoren",
+        "users": "Gebruikers",
+        "toRent": "Te huur",
+        "forSale": "Te koop",
+        "houses": "Huizen",
+        "categories": "Categorieën",
+        "favourites": "Favorieten",
+        "profile": "Profiel"
+    },
+    "offices": {
+        "title": "Kantoren",
+        "overview": {
+            "title": "Kantoren",
+            "create": "Voeg toe"
+        },
+        "create": {
+            "title": "Voeg kantoor toe"
+        },
+        "edit": {
+            "title": "Pas kantoor aan"
+        },
+        "fields": {
+            "contact": "Contactpersoon"
+        }
+    },
+    "users": {
+        "title": "Gebruikers",
+        "overview": {
+            "title": "Gebruikers",
+            "create": "Voeg gebruiker toe"
+        },
+        "create": {
+            "title": "Voeg gebruiker toe"
+        },
+        "edit": {
+            "title": "Pas gebruiker aan",
+            "password_print": "Laat leeg als u wachtwoord niet wil aanpassen"
+        },
+        "editProfile": {
+            "title": "Pas profiel aan"
+        }
+    },
+    "buttons": {
+        "create": "Voeg toe",
+        "edit": "Aanpassen",
+        "save": "Opslaan",
+        "filter": "Filter",
+        "viewMore": "Zie meer",
+        "favourite": "Voeg toe aan favorieten"
+    },
+    "fields": {
+        "id": "Id",
+        "email": "Email",
+        "avatar": "Avatar",
+        "name": "Naam",
+        "surname": "Voornaam",
+        "password": "Wachtwoord",
+        "client": "Kantoor",
+        "user": "User",
+        "role": "Rol",
+        "description": "Beschrijving",
+        "date": "Datum",
+        "time": "Tijd",
+        "areas": "Regio's",
+        "type": "Type",
+        "price": "Prijs",
+        "street": "Straat",
+        "houseNumber": "Huisnummer",
+        "zipcode": "Postcode",
+        "city": "Stad",
+        "buildYear": "Bouwjaar",
+        "surfaceArea": "Oppervlakte",
+        "bedrooms": "Slaapkamers",
+        "images": "Afbeelding",
+        "office": "Kantoor"
+    },
+    "houses": {
+        "overview": {
+            "title": "Huizen"
+        },
+        "create": {
+            "title": "Voeg huis toe"
+        },
+        "perMonth": "per maand",
+        "address": "Adres",
+        "price": "Prijs",
+        "surfaceArea": "Oppervlakte",
+        "buildYear": "Bouwjaar"
+    },
+    "categories": {
+        "overview" : {
+            "title": "Categorieën"
+        },
+        "create": {
+            "title": "Voeg categorie toe"
+        },
+        "edit": {
+            "title": "Pas categorie aan"
+        }
+    },
+    "home": {
+        "overview": {
+            "message": "Altijd al gedroomd van je eigen plekje? Hier bij Immo Kyan worden dromen werkelijkheid!"
+        }
+    }
+}
